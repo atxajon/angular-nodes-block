@@ -1,0 +1,5 @@
+name = Angular asynchronous load
+description = Retrieves nodes in a block asynchronously through Angular.
+core = 7.x
+
+
